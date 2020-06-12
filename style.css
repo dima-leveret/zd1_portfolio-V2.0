@@ -1,0 +1,132 @@
+body
+{
+    background-image: url(backbody.png);
+}
+
+#container
+{
+    width: 1700px;
+    margin: auto;
+}
+
+.header
+{
+    background-color: mistyrose;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.name
+{
+    background-color: orange;
+    font-size: 50px;
+    margin: auto;
+}
+
+nav
+{
+    display: flex;
+    color: mistyrose;
+    background-color: olivedrab;
+}
+
+.tile1
+{
+    width: 250px;
+    height: 100px;
+    background-color: maroon;
+    margin: 10px;
+}
+
+.tile2
+{
+    width: 250px;
+    height: 100px;
+    background-color: maroon;
+    margin: 10px;
+}
+
+.tile3
+{
+    width: 250px;
+    height: 100px;
+    background-color: maroon;
+    margin: 10px;
+}
+
+.tile4
+{
+    width: 250px;
+    height: 100px;
+    background-color: maroon;
+    margin: 10px;
+}
+
+.motto
+{
+    background-color: palevioletred;
+    display: flex;
+    justify-content: space-around;
+}
+
+.image2
+
+{
+    width: 960px;
+    height: 540px;
+}
+
+h2
+{
+    font-size: 70px;
+    text-align: center;
+    margin: auto;
+}
+
+.omnie
+{
+    background-color: rebeccapurple;
+    display: flex;
+    font-size: 18px;
+    color: seashell;
+    text-align: justify;
+}
+
+.image1
+{
+    width: 1080px;
+    height: 608px;
+    
+}
+
+.text1
+{
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.ds
+{
+    background-color: springgreen;
+    display: flex;
+    color: black;
+    font-size: 20px;
+    
+}
+
+.image3
+{
+   
+   
+}
+
+.text2
+{
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
