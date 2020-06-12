@@ -33,7 +33,7 @@ nav
 
 .tile1
 {
-    width: 250px;
+    width: 225px;
     height: 100px;
     background-color: maroon;
     margin: 10px;
@@ -41,7 +41,7 @@ nav
 
 .tile2
 {
-    width: 250px;
+    width: 225px;
     height: 100px;
     background-color: maroon;
     margin: 10px;
@@ -49,7 +49,7 @@ nav
 
 .tile3
 {
-    width: 250px;
+    width: 225px;
     height: 100px;
     background-color: maroon;
     margin: 10px;
@@ -57,7 +57,15 @@ nav
 
 .tile4
 {
-    width: 250px;
+    width: 225px;
+    height: 100px;
+    background-color: maroon;
+    margin: 10px;
+}
+
+.tile5
+{
+    width: 225px;
     height: 100px;
     background-color: maroon;
     margin: 10px;
@@ -156,5 +164,45 @@ h2
     margin-bottom: auto;
     font-size: 20px;
     color: black;
+}
+
+.footer
+{
+    background-color: teal;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin: auto;
+    color: white;
+}
+
+.social
+{
+    background-color: darkorange;
+    color: whitesmoke;
+    display: flex;
+    text-align: center;
+}
+
+.fb
+{
+    width: 100px;
+    height: 100px;
+    background-color: maroon;
+    margin: 10px;
+}
+.gh
+{
+    width: 100px;
+    height: 100px;
+    background-color: maroon;
+    margin: 10px;
+}
+.inst
+{
+    width: 100px;
+    height: 100px;
+    background-color: maroon;
+    margin: 10px;
 }
 
